@@ -1,6 +1,6 @@
 # Digit Classifier 
 
-## An application that can classify user-drawn digits, built using Python and [Teachable Machine](https://teachablemachine.withgoogle.com).
+An application that can classify user-drawn digits, built using Python and [Teachable Machine](https://teachablemachine.withgoogle.com).
 
 ![two](https://user-images.githubusercontent.com/93237883/177375597-8cb85395-4dd7-4983-95b0-916575b04742.png)
 
